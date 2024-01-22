@@ -39,7 +39,7 @@ Extended Weather Forecast: Access an extended weather forecast that includes tem
 4. **Install dependencies:**
 
    ```bash
-   npm install
+   sudo npm install
    ```
 
    ## Usage
@@ -47,7 +47,7 @@ Extended Weather Forecast: Access an extended weather forecast that includes tem
 5. **Start the server:**
 
    ```bash
-   npm start
+   node server.js
    ```
 
    Open your browser and visit http://localhost:3000.
