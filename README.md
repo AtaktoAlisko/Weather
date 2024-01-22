@@ -50,8 +50,6 @@ Extended Weather Forecast: Access an extended weather forecast that includes tem
    node server.js
    ```
 
-   Open your browser and visit http://localhost:3000.
-
 6. **Open your browser and visit [http://localhost:3000](http://localhost:3000).**
 
 7. **Enter weight and height values, and click "Calculate BMI" to see the result.**
